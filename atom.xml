@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Stan Lee&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.stanl.ee/"/>
+  <updated>2021-07-18T05:06:25.531Z</updated>
+  <id>https://www.stanl.ee/</id>
+  
+  <author>
+    <name>Stan Lee</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux 系统使用 vlmcsd 搭建 KMS 服务器教程</title>
+    <link href="https://www.stanl.ee/2020/04/29/2020-04-29-Linux_%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8_vlmcsd_%E6%90%AD%E5%BB%BA_KMS_%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/"/>
+    <id>https://www.stanl.ee/2020/04/29/2020-04-29-Linux_%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8_vlmcsd_%E6%90%AD%E5%BB%BA_KMS_%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/</id>
+    <published>2020-04-29T06:54:00.000Z</published>
+    <updated>2021-07-18T05:06:25.531Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;快速食用&quot;&gt;&lt;a href=&quot;#快速食用&quot; class=&quot;headerlink&quot; title=&quot;快速食用&quot;&gt;&lt;/a&gt;快速食用&lt;/h1&gt;&lt;h2 id=&quot;快速激活命令&quot;&gt;&lt;a href=&quot;#快速激活命令&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="https://www.stanl.ee/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>缅怀</title>
+    <link href="https://www.stanl.ee/2020/04/04/2020-04-04-%E7%BC%85%E6%80%80/"/>
+    <id>https://www.stanl.ee/2020/04/04/2020-04-04-%E7%BC%85%E6%80%80/</id>
+    <published>2020-04-04T02:24:00.000Z</published>
+    <updated>2021-07-18T05:06:25.531Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;缅怀英雄。敬畏生命。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://stanl-1301215540.cos.ap-chengdu.myqcloud.com/pic/2020-04-04-022646.jpg&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="杂" scheme="https://www.stanl.ee/categories/%E6%9D%82/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome To My Blog</title>
+    <link href="https://www.stanl.ee/2020/04/03/Welcome%20To%20My%20Blog!/"/>
+    <id>https://www.stanl.ee/2020/04/03/Welcome%20To%20My%20Blog!/</id>
+    <published>2020-04-03T05:26:00.000Z</published>
+    <updated>2021-07-18T05:06:25.532Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Hey
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="https://www.stanl.ee/categories/Test/"/>
+    
+    
+      <category term="Test" scheme="https://www.stanl.ee/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.stanl.ee/2020/04/03/hello-world/"/>
+    <id>https://www.stanl.ee/2020/04/03/hello-world/</id>
+    <published>2020-04-03T05:00:00.000Z</published>
+    <updated>2021-07-18T05:06:25.532Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="https://www.stanl.ee/categories/Test/"/>
+    
+    
+      <category term="Test" scheme="https://www.stanl.ee/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>This is Another Test</title>
+    <link href="https://www.stanl.ee/2020/04/03/Another%20Test/"/>
+    <id>https://www.stanl.ee/2020/04/03/Another%20Test/</id>
+    <published>2020-04-02T23:43:00.000Z</published>
+    <updated>2021-07-18T05:06:25.531Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Testing-pictures&quot;&gt;&lt;a href=&quot;#Testing-pictures&quot; class=&quot;headerlink&quot; title=&quot;Testing pictures:&quot;&gt;&lt;/a&gt;Testing pictures:&lt;/h1&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="https://www.stanl.ee/categories/Test/"/>
+    
+    
+      <category term="Test" scheme="https://www.stanl.ee/tags/Test/"/>
+    
+  </entry>
+  
+</feed>
